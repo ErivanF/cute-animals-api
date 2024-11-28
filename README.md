@@ -1,6 +1,6 @@
 # Description
 
-A Nest.JS API to upload and get cute animals pictures
+A Nest.JS API to upload and get cute animals pictures (WIP)
 
 ## Technologies
 
